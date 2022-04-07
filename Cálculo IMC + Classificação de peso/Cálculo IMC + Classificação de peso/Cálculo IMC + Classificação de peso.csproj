@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Cálculo_IMC___Classificação_de_peso</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\CalculoIMC_ClassificaçãoPeso - Lista5 C#.cs" Link="CalculoIMC_ClassificaçãoPeso - Lista5 C#.cs" />
+  </ItemGroup>
+
+</Project>

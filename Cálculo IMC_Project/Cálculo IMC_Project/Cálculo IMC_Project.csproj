@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Cálculo_IMC_Project</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\CalculoIMC - Lista3 C#.cs" Link="CalculoIMC - Lista3 C#.cs" />
+    <Compile Include="C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\Lista3 - C#\CalculoIMC - Lista3 C#.cs" Link="CalculoIMC - Lista3 C#.cs" />
+  </ItemGroup>
+
+</Project>

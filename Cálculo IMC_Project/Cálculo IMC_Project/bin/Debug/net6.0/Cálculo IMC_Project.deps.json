@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cálculo IMC_Project/1.0.0": {
+        "runtime": {
+          "Cálculo IMC_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo IMC_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

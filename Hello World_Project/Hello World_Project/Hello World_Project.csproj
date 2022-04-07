@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Hello_World_Project</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\Lista1 - C#\HelloWorld - Lista1 C#.cs" Link="HelloWorld - Lista1 C#.cs" />
+  </ItemGroup>
+
+</Project>

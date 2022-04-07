@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.exe
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.deps.json
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.runtimeconfig.json
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.runtimeconfig.dev.json
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.dll
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\bin\Debug\net5.0\TabuadaCSharp.pdb
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.AssemblyInfo.cs
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.dll
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\refint\TabuadaCSharp.dll
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.pdb
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\TabuadaCSharp.genruntimeconfig.cache
+C:\Users\User\Documents\GENERATION\.NET\Atividades\Visual Studio\CSharp códigos\C#\TabuadaCSharp\TabuadaCSharp\obj\Debug\net5.0\ref\TabuadaCSharp.dll
