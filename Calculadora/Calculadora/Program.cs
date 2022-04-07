@@ -12,7 +12,7 @@ namespace Calculadora
         public static void Calculadora()
         {
             Console.WriteLine("Calculadora");
-            Console.WriteLine("Digite 'ligar' para iniciar a conta");
+            Console.WriteLine("Digite 'Ligar' para iniciar a conta");
             string ligar = Console.ReadLine();
 
 
