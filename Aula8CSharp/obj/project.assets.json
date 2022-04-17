@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pamel\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\C#-8 - Object Oriented Programming - Fundamentals_v1\\code\\Aula8VS\\Aula8VS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Aula8CSharp\\Aula8VS.csproj",
       "projectName": "Aula8VS",
-      "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\C#-8 - Object Oriented Programming - Fundamentals_v1\\code\\Aula8VS\\Aula8VS.csproj",
-      "packagesPath": "C:\\Users\\pamel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\C#-8 - Object Oriented Programming - Fundamentals_v1\\code\\Aula8VS\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Aula8CSharp\\Aula8VS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Aula8CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

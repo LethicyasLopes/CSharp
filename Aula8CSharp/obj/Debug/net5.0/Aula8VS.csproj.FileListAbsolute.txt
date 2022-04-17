@@ -14,3 +14,19 @@ C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#
 C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\ref\Aula8VS.dll
 C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.pdb
 C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.genruntimeconfig.cache
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.exe
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.deps.json
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.runtimeconfig.json
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.runtimeconfig.dev.json
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.dll
+C:\Users\User\source\repos\Aula8CSharp\bin\Debug\net5.0\Aula8VS.pdb
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.AssemblyInfo.cs
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.dll
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\refint\Aula8VS.dll
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.pdb
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\Aula8VS.genruntimeconfig.cache
+C:\Users\User\source\repos\Aula8CSharp\obj\Debug\net5.0\ref\Aula8VS.dll
